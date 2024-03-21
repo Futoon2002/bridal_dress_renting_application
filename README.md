@@ -22,8 +22,3 @@ Sign up:
 
 
 ![Screenshot_2024-03-21_025906-removebg-preview](https://github.com/Futoon2002/bride_wedding_dress_renting_application/assets/101240944/43ffaf10-0e3c-48d4-b2da-0df9fef309d5)
-
-Home page:
-
-
-![Screenshot_2024-03-21_025928-removebg-preview](https://github.com/Futoon2002/bride_wedding_dress_renting_application/assets/101240944/74c0d0e8-32ed-4877-84f2-0e1dbed75ff3)
